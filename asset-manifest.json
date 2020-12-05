@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/iphone/static/css/main.b0218bbd.chunk.css",
-    "main.js": "/iphone/static/js/main.53eb19eb.chunk.js",
-    "main.js.map": "/iphone/static/js/main.53eb19eb.chunk.js.map",
+    "main.js": "/iphone/static/js/main.a49a7e5b.chunk.js",
+    "main.js.map": "/iphone/static/js/main.a49a7e5b.chunk.js.map",
     "runtime-main.js": "/iphone/static/js/runtime-main.89b2602e.js",
     "runtime-main.js.map": "/iphone/static/js/runtime-main.89b2602e.js.map",
     "static/css/2.20aa2d7b.chunk.css": "/iphone/static/css/2.20aa2d7b.chunk.css",
@@ -22,6 +22,6 @@
     "static/css/2.20aa2d7b.chunk.css",
     "static/js/2.9623ea11.chunk.js",
     "static/css/main.b0218bbd.chunk.css",
-    "static/js/main.53eb19eb.chunk.js"
+    "static/js/main.a49a7e5b.chunk.js"
   ]
 }
